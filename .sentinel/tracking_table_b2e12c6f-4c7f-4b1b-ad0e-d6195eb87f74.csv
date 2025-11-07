@@ -1,11 +1,8 @@
 FileName, CommitSha
-Log4j+vulnerability+exploit.json,91917d9c313c783a8a6d202b9176fffabd28c98f
-.github/6 - automation rules/Run-ChatGPT-Playbook.json,89b07f6ca71580d02da4f0af7663d555166a7b41
-.github/5 - playbooks/MicrosoftSentinel-ChatGPT-Playbook (1).json,328f46ab8b5e1eafa93513b1e9d321c7ca9326f8
-User+agent+search+for+log4j+exploitation+attempt.json,f919b0ab7db2b52a01c2f3f3aa848530d2bf63cb
-.github/7 - Workbook/Data+Collection+Rule+Toolkit.json,0fe98120303a0bf5fa3ab74efdc248997b26c33d
-.github/4 - hunting querys/BlackCatRansowmare.json,491b9c8e181d1c00e3cce3bc85456f54217c39b9
-.github/2 - parsers/Repository+Parser.json,cc4fae23499eb1908bbf617874d5cd9ca8e6a44d
-MicrosoftSentinel-ChatGPT-Playbook.json,328f46ab8b5e1eafa93513b1e9d321c7ca9326f8
-.github/3 - analytic rules/Azure+Diagnostic+settings+removed+from+a+resource.json,c7accd2d5e54b8c03aff6307f635b88463bb068f
+3 - analytic rules/Azure+Diagnostic+settings+removed+from+a+resource.json,c7accd2d5e54b8c03aff6307f635b88463bb068f
+7 - Workbook/Data+Collection+Rule+Toolkit.json,0fe98120303a0bf5fa3ab74efdc248997b26c33d
+5 - playbooks/MicrosoftSentinel-ChatGPT-Playbook (1).json,328f46ab8b5e1eafa93513b1e9d321c7ca9326f8
+2 - parsers/Repository+Parser.json,cc4fae23499eb1908bbf617874d5cd9ca8e6a44d
+6 - automation rules/Run-ChatGPT-Playbook.json,89b07f6ca71580d02da4f0af7663d555166a7b41
+4 - hunting querys/BlackCatRansowmare.json,491b9c8e181d1c00e3cce3bc85456f54217c39b9
 
